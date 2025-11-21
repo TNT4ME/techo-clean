@@ -6,7 +6,7 @@
 
 This fork adds Truecolor support (RGB mode) along with remade pixel art and translates all the comments to english. Although I used Google Translate, I'm sure the translations are accurate.
 
-![fork eg](https://github.com/TNT4ME/techo-clean/blob/main/teto-clear-eg.png)
+![fork eg](https://github.com/TNT4ME/techo-truecolor/blob/main/preview/teto-example.png)
 
 ## Sublime Overview
 
