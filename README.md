@@ -4,7 +4,7 @@
 
 ## Fork
 
-This fork makes Teto's face & hair a bit clearer and translates a few comments to english.
+This fork adds Truecolor support (RGB mode) along with remade pixel art and translates all the comments to english. Although I used Google Translate, I'm sure the translations are accurate.
 
 ![fork eg](https://github.com/TNT4ME/techo-clean/blob/main/teto-clear-eg.png)
 
@@ -12,7 +12,7 @@ This fork makes Teto's face & hair a bit clearer and translates a few comments t
 
 This Python script is simply print text message to stdout like echo or cat command on Linux, but it can decorate your terminal with dotted [Teto](https://kasaneteto.jp/)'s face at that time. 
 
-The appearance of 8 color dotted Teto offers not only relaxation and happiness to extremely hard and severe system administration tasks, but also useful to prevent missing important notices. 
+The appearance of ~~8 color~~ dotted Teto offers not only relaxation and happiness to extremely hard and severe system administration tasks, but also useful to prevent missing important notices. 
 
 ## Yet Another Overview
 
@@ -21,7 +21,8 @@ kawaii
 ## Requirement
 
 - Python3
-- CLI terminal supporting ANSI escape sequence. 
+- CLI terminal supporting ANSI escape sequence.
+- CLI terminal supporting Truecolor (24 bit)
 
 ## Install
 
